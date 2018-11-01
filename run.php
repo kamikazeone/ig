@@ -1,4 +1,4 @@
-H<?php
+<?php
 error_reporting(0);
 require('func.php');
 function req($url, $data)
