@@ -1,4 +1,4 @@
-B<?php
+<?php
 require('../func.php');
 require('../ass.php');
 error_reporting(0);
