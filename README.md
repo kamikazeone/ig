@@ -1,4 +1,5 @@
-# ig
+# ig autlike-auto follow-follback -auto unfollow
+
 # apt update && apt upgrade
 # apt install git -y
 # apt install php -y
